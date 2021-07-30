@@ -1,10 +1,6 @@
-# Audio Mic Record
+# speech-to-text-demo
 
-This is an example showing how one can record audio from
-the microphone and later play it back or save it to a file.
+This is a boilerplate Godot project that calls a Python REST service for speech-to-text capabilities.
 
-Language: GDScript
-
-Renderer: GLES 2
-
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/527
+Please see my devlog here as a tutorial on how to use this project!
+https://urodela.itch.io/phonograph/devlog/278858/a-simple-way-to-enable-speech-to-text-through-godot-and-rest
